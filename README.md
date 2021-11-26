@@ -16,7 +16,7 @@ $ pip2 install mechanize
 
 $ pkg install git
 
-$ https://github.com/Mr-Beta-Version/B009
+$ git clone https://github.com/Mr-Beta-Version/B009
 
 $ cd B009
 
